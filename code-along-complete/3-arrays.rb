@@ -24,6 +24,7 @@ puts shopping_lists
 
 # We access elements of an array by using the square brackets [] and
 # a number, which represents the *0-based* index of the element we want
+delish_foods =[]
 puts delish_foods[0] # the first element of the array
 
 # How about that array of arrays? Let's access the 3rd element of the second array:
