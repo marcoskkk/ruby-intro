@@ -20,3 +20,11 @@ things_that_would_be_better_with_bacon = ["tacos", "cheeseburgers", "donuts"]
 for thing in things_that_would_be_better_with_bacon
   puts "bacon " + thing
 end
+
+# OR
+
+for rank in ranks
+  for suit in suits
+    puts "#{rank} of #{suit}"
+  end
+end
